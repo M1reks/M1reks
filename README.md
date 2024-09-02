@@ -1,4 +1,4 @@
-<h1 align="center">My name is Temirlan. I am 16 yo frontend developer fron Ukraine</h1>
+<h1 align="center">My name is Danya. I am 16 yo frontend developer fron Ukraine</h1>
 
 
 <!--
