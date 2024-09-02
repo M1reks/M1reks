@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">My name is Temirlan. I am 16 yo frontend developer fron Ukraine</h1>
+
 
 <!--
 **M1reks/M1reks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
