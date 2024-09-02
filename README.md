@@ -1,9 +1,8 @@
 <h1 align="center">My name is Danya. I am 16 yo frontend developer from Ukraine</h1>
 
 - Ability to quickly learn and adapt to new technologies.
-- Сильные навыки во **фронтенд-разработке** с фокусом на современные веб-технологии.
-- Умение писать **чистый и поддерживаемый код**.
-
+- Strong skills in **front-end development** with a focus on modern web technologies.
+- Ability to write **clean and maintainable code**.
 
 <!--
 **M1reks/M1reks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
