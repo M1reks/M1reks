@@ -1,4 +1,4 @@
-<h1 align="center">My name is Danya. I am 16 yo frontend developer from Ukraine</h1>
+<h1 align="center">My name is Danya. I am 17 yo frontend developer from Ukraine</h1>
 
 - Ability to quickly learn and adapt to new technologies.
 - Strong skills in **front-end development** with a focus on modern web technologies.
